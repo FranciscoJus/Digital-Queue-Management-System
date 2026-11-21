@@ -4,14 +4,14 @@ A web-based queue management system for student services. Students get a digital
 
 ## Team Members
 
-• FRANCISCO, Justin 
-• BAYBAY, Anabell E.
-• LEGPITAN, Farhaneeza H.
-• DINGLASA, Jhillian B.
-• RESURRECION, Frank Cedrick L.
-• FABIAN, Hark Jorald E.
-• SAAVEDRA, Melissa N.
-• LEGPITAN, Farhaneeza H.
+- • FRANCISCO, Justin 
+- • BAYBAY, Anabell E.
+- • LEGPITAN, Farhaneeza H.
+- • DINGLASA, Jhillian B.
+- • RESURRECION, Frank Cedrick L.
+- • FABIAN, Hark Jorald E.
+- • SAAVEDRA, Melissa N.
+- • LEGPITAN, Farhaneeza H.
 
 
 ## About the Project
