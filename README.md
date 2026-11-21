@@ -56,7 +56,7 @@ Long lines at student service offices waste time. This system lets students join
 
 1. **Download or clone** the repository.
    ```
-   https://github.com/PxBonz/Digital-Queue-Management-System
+  https://github.com/FranciscoJus/Digital-Queue-Management-System
    ```
 2. **Copy the project folder** into `C:\xampp\htdocs\`.
 3. **Start Apache and MySQL** in the XAMPP Control Panel.
