@@ -1,6 +1,6 @@
 # Digital Queue Management System
 
-A web-based queue management system for student services. Students get a digital queue number from their phone, and staff manage the line from a dashboard.
+A web-based queue management system for student services. Students get a digital queue number from their device, and staff manage the line from a dashboard.
 
 ## Team Members
 
