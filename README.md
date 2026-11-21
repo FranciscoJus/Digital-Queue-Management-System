@@ -21,7 +21,7 @@ Long lines at student service offices waste time. This system lets students join
 ## Features
 
 **Student Portal**
-- Get a queue number by entering full name, section, and transaction type (Enrollment, Clearance, or Evaluation)
+- Get a queue number by entering full name, section, and transaction type (Enrollment, Clearance, Evaluation, Attendance, Department Fee, or Insurance)
 - View ticket status, people ahead, and estimated waiting time
 - See which number is currently being served
 - Leave the queue with a confirmation prompt
@@ -32,7 +32,7 @@ Long lines at student service offices waste time. This system lets students join
 - Password-protected login with show/hide password
 - Open and close queue sessions
 - Call next, complete, skip, and requeue students
-- Live dashboard counts (waiting, completed, skipped)
+- Live dashboard counts (Waiting, Completed, Skipped, or Cancelled)
 - History page with every session and ticket
 
 ## Tech Stack
