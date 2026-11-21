@@ -6,7 +6,6 @@ A web-based queue management system for student services. Students get a digital
 
 - FRANCISCO, Justin 
 - BAYBAY, Anabell E.
-- LEGPITAN, Farhaneeza H.
 - DINGLASA, Jhillian B.
 - RESURRECION, Frank Cedrick L.
 - FABIAN, Hark Jorald E.
